@@ -154,19 +154,8 @@ Hack 单词查询： word.ws
 | [Ahrefs](http://ahrefs.com/)           | 分析某个域名的流量以及外链     | ahrefs.com      |
 
 ### 域名抢注
-
-| [Dan](http://dan.com/)                 | 域名停放以及销售平台 | dan.com         |
-| -------------------------------------- | -------------------- | --------------- |
-| [Sedo](http://sedo.com/)               | 域名停放以及销售平台 | sedo.com        |
-| [4.cn](http://4.cn/)                   | 国内域名停靠出售平台 | 4.cn            |
-| [Flippa](http://flippa.com/)           | 域名停放以及销售平台 | flippa.com      |
-| [Bodis](http://bodis.com/)             | 域名停放以及销售平台 | bodis.com       |
-| [Escrow](http://escrow.com/)           | 域名停放以及销售平台 | escrow.com      |
-| [Parklogic](http://parklogic.com/)     | 域名停放以及销售平台 | parklogic.com   |
-| [Parkingcrew](http://parkingcrew.com/) | 域名停放以及销售平台 | parkingcrew.com |
-| [Afternic](http://afternic.com/)       | 域名停放以及销售平台 | afternic.com    |
-| [Efty](http://efty.com/)               | 域名停放以及销售平台 | efty.com        |
 | [Dropcatch](http://dropcatch.com/)             | 国际知名主流后缀域名抢注商 | dropcatch.com        |
+| -------------------------------------- | -------------------- | --------------- |
 | [EE注册局](https://auction.internet.ee/)       | .ee后缀域名抢注商          | internet.ee          |
 | [RU注册局](http://nic.ru/)                     | .ru后缀域名抢注商          | nic.ru               |
 | [Docky](http://docky.ly/)                      | 小众国别域名抢注商         | docky.ly             |
